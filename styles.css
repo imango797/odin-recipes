@@ -1,6 +1,6 @@
-body {
+div {
     text-align: center;
-    color: goldenrod;
+    color: burlywood;
 }
 
 h1 {
@@ -11,3 +11,4 @@ h1 {
     display: inline-block;
     text-align: left;
 }
+
