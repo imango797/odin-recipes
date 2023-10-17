@@ -1,14 +1,28 @@
-div {
-    text-align: center;
+div,
+h1, 
+h4 {
     color: burlywood;
 }
 
+div {
+    text-align: center;
+}
+
 h1 {
-    font-size: 50px;
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 20px;
 }
 
 .ul {
     display: inline-block;
     text-align: left;
+}
+
+.bearimg {
+    height: auto;
+    width: 300px;
 }
 
